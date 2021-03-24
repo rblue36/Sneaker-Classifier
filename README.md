@@ -1,1 +1,5 @@
 # Sneaker-Classifier
+
+# Dependencies
+
+Python
