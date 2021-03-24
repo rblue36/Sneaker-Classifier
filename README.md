@@ -6,7 +6,7 @@ A classifier with 3 classes of sneakers: Jordan 1, Jordan 4 and Jordan 11. Train
 
 **Frameworks**\
 python (<= 3.6.2)\
-torch (<= 1.8.0)\
+torch (<= 1.8.0)
 
 **Packages**\
 matplotlib\
