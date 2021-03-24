@@ -15,7 +15,6 @@ torch\
 torchvision
 
 # Usage
-Save the dataset zip to your google drive.\
-Open Jordan_Sneaker_Classifier.ipynb in a Google Colab.\
-Change the location of the dataset zip in the unzip line to your location\
-Run the script\
+1. Save the dataset zip to the root of your google drive.\
+2. Save Jordan_Sneaker_Classifier.ipynb to your google drive and open it in Google Colab.\
+3. Run the script
