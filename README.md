@@ -11,7 +11,6 @@ torch (>= 1.8.0)
 **Packages**\
 matplotlib\
 numpy\
-torch\
 torchvision
 
 # Usage
